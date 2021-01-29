@@ -4,7 +4,7 @@
 }
 .register-left{
     text-align: center;
-    color: #fff;
+    color: pink;
     margin-top: 4%;
 }
 .register-left input{
@@ -27,7 +27,7 @@
     margin-top: 15%;
     margin-bottom: 5%;
     width: 25%;
-    -webkit-animation: mover 2s infinite  alternate;
+    -webkit-animation: mover 3s infinite  alternate;
     animation: mover 1s infinite  alternate;
 }
 @-webkit-keyframes mover {
